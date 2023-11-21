@@ -4,6 +4,11 @@ For 586 - Jupyter Notebooks use the POLB_SQL folder csv data files included in t
 
 1) Data_Join Jupyter Notebook takes the data from several sources and brings key information into 1 new data file. 
 
+
+
+On November 20th I submitted a version of this project without the data layers. 
+www.philippaburgess.com 
+__ 
 Created by Philippa Burgess 
 
 Welcome to my project. This is my official submission for the Google Immersive Geospatial Challenge. 
