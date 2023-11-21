@@ -1,5 +1,9 @@
 # Port of Long Beach: Sustainability Analysis 
 
+For 586 - Jupyter Notebooks use the POLB_SQL folder csv data files included in this Repository 
+
+1) Data_Join Jupyter Notebook takes the data from several sources and brings key information into 1 new data file. 
+
 Created by Philippa Burgess 
 
 Welcome to my project. This is my official submission for the Google Immersive Geospatial Challenge. 
